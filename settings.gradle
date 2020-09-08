@@ -1,0 +1,4 @@
+include ':part2_3:myapplication'
+rootProject.name='IchxxnMond'
+include ':app'
+include ':part2_3'
